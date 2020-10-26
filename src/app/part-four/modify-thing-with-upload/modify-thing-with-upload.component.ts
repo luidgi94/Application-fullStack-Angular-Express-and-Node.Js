@@ -6,7 +6,7 @@ import { ActivatedRoute, Router } from '@angular/router';
 import { AuthService } from '../../services/auth.service';
 import { mimeType } from '../mime-type.validator';
 import { Thing } from '../../models/Thing.model';
-
+// ok
 @Component({
   selector: 'app-modify-thing-with-upload',
   templateUrl: './modify-thing-with-upload.component.html',

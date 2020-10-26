@@ -1,4 +1,4 @@
-export class Thing {
+export class Thing {  
   _id: string;
   title: string;
   description: string;
